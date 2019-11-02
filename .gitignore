@@ -13,12 +13,14 @@
 !/log/.keep
 !/tmp/.keep
 
+.idea/*
 
 /public/assets
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+/config/neo4j.yml
 
 /public/packs
 /public/packs-test
