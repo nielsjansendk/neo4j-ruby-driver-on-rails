@@ -1,0 +1,13 @@
+development:
+  host: localhost
+  port: 7687
+  username: neo4j
+  password: password
+  seabolt_path: /usr/local/lib/libseabolt17.dylib
+
+test:
+  host: localhost
+  port: 7688
+  username: neo4j
+  password: password
+  seabolt_path: /usr/local/lib/libseabolt17.dylib
