@@ -13,7 +13,7 @@
 !/log/.keep
 !/tmp/.keep
 
-.idea/*
+.idea
 
 /public/assets
 .byebug_history
