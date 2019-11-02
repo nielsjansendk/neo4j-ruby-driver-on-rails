@@ -25,7 +25,7 @@ To build you own rails app from scratch:
 
 * Modify `neo4j.yml` with your own settings
 
-* Copy `config/initializers/neo4j.rb` to your own app
+* Copy `config/initializers/neo4j.rb` from this app to your own app
 
 * Start a rails console (`bundle exec rails c`) and write `Neo4j::ActiveBase.current_session`. 
 The result should contain the line that looks like this:
